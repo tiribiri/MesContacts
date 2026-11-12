@@ -1,0 +1,30 @@
+# Fichiers générés / cache
+*.iml
+.gradle/
+/build/
+/app/build/
+
+.externalNativeBuild
+.cxx
+
+# Configuration locale (chemin du SDK, secrets)
+/local.properties
+
+# Paramètres de l'IDE propres à chaque machine
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/deploymentTargetSelector.xml
+
+# Signature de l'application (NE JAMAIS PUBLIER)
+*.jks
+*.keystore
+keystore.properties
+
+# Fichiers système
+.DS_Store
+Thumbs.db
